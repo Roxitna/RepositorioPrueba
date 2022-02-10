@@ -3,6 +3,7 @@ body {
     font-family: 'Courier New', Courier, monospace;
     text-align: left;
 }
+
 nav {
     background-color: #e1e1e1;
     padding: .4em;
@@ -23,3 +24,9 @@ nav a:hover {
     color: #a44;
     text-decoration: underline;
 }
+
+h1 {
+    color: #a44;
+    text-decoration: underline;
+}
+
